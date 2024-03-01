@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HotelManagementSystem
+build_property.RootNamespace = HotelManagementSystem
+build_property.ProjectDir = C:\Users\baris\source\repos\HotelManagementSystem\HotelManagementSystem\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\baris\source\repos\HotelManagementSystem\HotelManagementSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Customers/AddCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEFkZEN1c3RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Customers/DeleteCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZUN1c3RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Customers/GetAllCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEdldEFsbEN1c3RvbWVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Customers/UpdateCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXFVwZGF0ZUN1c3RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/AddCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/AddHotelRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRIb3RlbFJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/AddPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRQYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/AddReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRSZXNlcnZhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/DeleteCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/DeleteHotelRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVIb3RlbFJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/DeletePayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVQYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/DeleteReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVSZXNlcnZhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/GetAllCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRBbGxDdXN0b21lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/GetAllHotelRooms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRBbGxIb3RlbFJvb21zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/GetAllPayments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRBbGxQYXltZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/GetAllReservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRBbGxSZXNlcnZhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/UpdateCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGRhdGVDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/UpdateHotelRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGRhdGVIb3RlbFJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Home/UpdatePayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGRhdGVQYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/HotelRooms/AddHotelRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxSb29tc1xBZGRIb3RlbFJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/HotelRooms/DeleteHotelRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxSb29tc1xEZWxldGVIb3RlbFJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/HotelRooms/GetAllHotelRooms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxSb29tc1xHZXRBbGxIb3RlbFJvb21zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/HotelRooms/UpdateHotelRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxSb29tc1xVcGRhdGVIb3RlbFJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/HotelRooms/_RoomListPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxSb29tc1xfUm9vbUxpc3RQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Payments/AddPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcQWRkUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Payments/DeletePayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRGVsZXRlUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Payments/GetAllPayments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcR2V0QWxsUGF5bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Payments/UpdatePayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcVXBkYXRlUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Reservations/AddReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEFkZFJlc2VydmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Reservations/DeleteReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXERlbGV0ZVJlc2VydmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Reservations/GetAllReservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEdldEFsbFJlc2VydmF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Reservations/UpdateReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXFVwZGF0ZVJlc2VydmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baris/source/repos/HotelManagementSystem/HotelManagementSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zrgfpaayuh

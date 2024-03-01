@@ -1,0 +1,62 @@
+﻿@model HotelManagementSystem.Models.Reservations
+
+@{
+    ViewData["Title"] = "UpdateReservation";
+}
+
+<h1>UpdateReservation</h1>
+
+<h4>Reservations</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateReservation">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ReservationId" />
+            <div class="form-group">
+                <label asp-for="CustomerId" class="control-label"></label>
+                <input asp-for="CustomerId" class="form-control" />
+                <span asp-validation-for="CustomerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RoomId" class="control-label"></label>
+                <input asp-for="RoomId" class="form-control" />
+                <span asp-validation-for="RoomId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CheckInDate" class="control-label"></label>
+                <input asp-for="CheckInDate" class="form-control" />
+                <span asp-validation-for="CheckInDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CheckOutDate" class="control-label"></label>
+                <input asp-for="CheckOutDate" class="form-control" />
+                <span asp-validation-for="CheckOutDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalPrice" class="control-label"></label>
+                <input asp-for="TotalPrice" class="form-control" />
+                <span asp-validation-for="TotalPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Status</label>
+                <select asp-for="Status" name="Status" class="form-select form-control">
+                    <option value="">Pick One</option>
+                    <option value="Confirmed">Confirmed</option>
+                    <option value="Pending">Pending</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

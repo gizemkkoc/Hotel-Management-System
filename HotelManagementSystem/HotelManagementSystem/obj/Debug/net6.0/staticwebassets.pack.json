@@ -1,0 +1,889 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelManagementSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HotelManagementSystem.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\_custom.css",
+      "PackagePath": "staticwebassets\\css\\_custom.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\fontawesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\fontawesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\fontawesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\fontawesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\ionicons\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\ionicons\\cheatsheet.html",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\cheatsheet.html"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\ionicons\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\about_feature_image.png",
+      "PackagePath": "staticwebassets\\images\\about_feature_image.png"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\food-1.jpg",
+      "PackagePath": "staticwebassets\\images\\food-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\hero4.jpg",
+      "PackagePath": "staticwebassets\\images\\hero4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\hero_2.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\hero_3.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\image_5.jpg",
+      "PackagePath": "staticwebassets\\images\\image_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\image_6.jpg",
+      "PackagePath": "staticwebassets\\images\\image_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\image_7.jpg",
+      "PackagePath": "staticwebassets\\images\\image_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\images\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\images\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\images\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\images\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\img_5.jpg",
+      "PackagePath": "staticwebassets\\images\\img_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\round.png",
+      "PackagePath": "staticwebassets\\images\\round.png"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\slider-4.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\slider-5.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\slider-6.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\images\\slider-7.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_custom.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\baris\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\wwwroot\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HotelManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HotelManagementSystem.props",
+      "PackagePath": "build\\HotelManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\HotelManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HotelManagementSystem.props",
+      "PackagePath": "buildTransitive\\HotelManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

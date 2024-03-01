@@ -1,0 +1,46 @@
+﻿<!-- _RoomListPartial.cshtml -->
+@model IEnumerable<HotelManagementSystem.Models.HotelRooms>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RoomNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoomType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoomNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoomType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    <a style="color:black" asp-action="Edit" asp-route-id="@item.RoomId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.RoomId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.RoomId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

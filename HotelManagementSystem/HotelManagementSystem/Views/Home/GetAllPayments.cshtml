@@ -1,0 +1,53 @@
+﻿@model IEnumerable<HotelManagementSystem.Models.Payments>
+
+@{
+    ViewData["Title"] = "GetAllPayments";
+}
+
+<h1>GetAllPayments</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ReservationID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AmountPaid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReservationID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AmountPaid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentType)
+            </td>
+            <td>
+                <a asp-action="UpdatePayment" asp-route-id="@item.PaymentID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PaymentID">Details</a> |
+                <a asp-action="DeletePayment" asp-route-id="@item.PaymentID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
